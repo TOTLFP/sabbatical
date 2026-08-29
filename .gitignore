@@ -1,0 +1,4 @@
+# only the encrypted page belongs here
+*source*
+*.js
+*.b64
